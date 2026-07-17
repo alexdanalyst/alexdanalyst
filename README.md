@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alex D Analyst
 
-<!--
-**alexdanalyst/alexdanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with the skills of a Business Analyst and a degree in Petroleum Engineering- now building impactful projects in Excel, SQL, Power BI and Python,
 
-Here are some ideas to get you started:
+## Tools I work with 
+-Microsoft Excel
+-SQL
+-Power BI
+-Python
+-Jira
+-Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+-[Global Fuel Price Disparities] (...)
+
+## Currently Learning
+-Confluence
+
+## Let's connect!
