@@ -21,7 +21,7 @@ My approach reflects the way I naturally think about problems: understanding the
 Raw Business Data → Data Cleaning → ETL → Structured Dataset → Analysis → Visualization → Business Insights → Informed Decisions
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://alexda-ba.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
