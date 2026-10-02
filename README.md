@@ -1,38 +1,39 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Alex 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Analyst;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[3years in Business insights+%26+Analytics]" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst%7CBusiness+Analyst;Turning+Data+into+Actionable+Insights;3%2B+years+Experience;Business+Insights+%26+Analytics" alt="Typing SVG" />
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/alex-esivbekpe"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:your.alexesivbekpe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Data & Business Analyst passionate about transforming raw business data into meaningful insights that support better decision-making.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My experience involves working with real-world business data, including raw invoice records collected from business operations. I enjoy taking unstructured or messy data, organizing and transforming it through ETL processes, and preparing it for analysis in tools such as Excel and Power BI.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I focus on understanding not just what the data says, but what it means for the business. By transforming raw transactional data into structured datasets, interactive dashboards, and meaningful visualizations, I help uncover patterns, trends, performance gaps, and opportunities that can support informed business decisions.
+
+My approach reflects the way I naturally think about problems: understanding the bigger picture, identifying relationships within the data, finding the underlying causes, and turning complexity into clarity.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Global Data-driven investigation into petrol, diesel and LPG price disparities
+- **Project B:** ADF fashion.Luxury.Lifestyle Sales Report Analysis
+- **Project B:** Football players Growth Analysis
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Artificial intelligence(AI)
+- Jira
 
 ## 🛠️ Technical Skillset
 
